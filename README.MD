@@ -7,3 +7,4 @@
 [1927](https://www.acmicpc.net/problem/1927)
 [7576](https://www.acmicpc.net/problem/7576)
 [11279](https://www.acmicpc.net/problem/11279)
+[11724](https://www.acmicpc.net/problem/11724)
