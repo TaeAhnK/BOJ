@@ -2,6 +2,7 @@
 #### 2022.12~
 
 [1012](https://www.acmicpc.net/problem/1012)
+[1074](https://www.acmicpc.net/problem/1074)
 [1260](https://www.acmicpc.net/problem/1260)
 [1389](https://www.acmicpc.net/problem/1389)
 [1620](https://www.acmicpc.net/problem/1620)
