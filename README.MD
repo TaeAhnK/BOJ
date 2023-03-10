@@ -9,6 +9,7 @@
 [1697](https://www.acmicpc.net/problem/1697)
 [1920](https://www.acmicpc.net/problem/1920)
 [1927](https://www.acmicpc.net/problem/1927)
+[1992](https://www.acmicpc.net/problem/1992)
 [2178](https://www.acmicpc.net/problem/2178)
 [2630](https://www.acmicpc.net/problem/2630)
 [5430](https://www.acmicpc.net/problem/5430)
