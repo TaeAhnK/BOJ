@@ -17,6 +17,7 @@
 [7569](https://www.acmicpc.net/problem/7569)
 [7576](https://www.acmicpc.net/problem/7576)
 [9019](https://www.acmicpc.net/problem/9019)
+[9095](https://www.acmicpc.net/problem/9095)
 [10026](https://www.acmicpc.net/problem/10026)
 [11279](https://www.acmicpc.net/problem/11279)
 [11286](https://www.acmicpc.net/problem/11286)
