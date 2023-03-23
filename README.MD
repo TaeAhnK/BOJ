@@ -12,6 +12,7 @@
 [1927](https://www.acmicpc.net/problem/1927)
 [1992](https://www.acmicpc.net/problem/1992)
 [2178](https://www.acmicpc.net/problem/2178)
+[2579](https://www.acmicpc.net/problem/2579)
 [2630](https://www.acmicpc.net/problem/2630)
 [5430](https://www.acmicpc.net/problem/5430)
 [6064](https://www.acmicpc.net/problem/6064)
