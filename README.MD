@@ -16,6 +16,7 @@
 [2178](https://www.acmicpc.net/problem/2178)
 [2579](https://www.acmicpc.net/problem/2579)
 [2630](https://www.acmicpc.net/problem/2630)
+[2667](https://www.acmicpc.net/problem/2667)
 [5430](https://www.acmicpc.net/problem/5430)
 [5525](https://www.acmicpc.net/problem/5525)
 [6064](https://www.acmicpc.net/problem/6064)
