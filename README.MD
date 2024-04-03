@@ -36,6 +36,7 @@
 [11399](https://www.acmicpc.net/problem/11399)
 [11403](https://www.acmicpc.net/problem/11403)
 [11724](https://www.acmicpc.net/problem/11724)
+[11725](https://www.acmicpc.net/problem/11725)
 [11726](https://www.acmicpc.net/problem/11726)
 [11727](https://www.acmicpc.net/problem/11727)
 [14500](https://www.acmicpc.net/problem/14500)
