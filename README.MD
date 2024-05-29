@@ -1,5 +1,8 @@
 # BOJ
-#### 2022.12~
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tenny0124)
+
+___
 
 [1012](https://www.acmicpc.net/problem/1012)
 [1074](https://www.acmicpc.net/problem/1074)
