@@ -52,6 +52,7 @@ ___
 [14500](https://www.acmicpc.net/problem/14500)
 [14940](https://www.acmicpc.net/problem/14940)
 [15650](https://www.acmicpc.net/problem/15650)
+[15652](https://www.acmicpc.net/problem/15652)
 [15654](https://www.acmicpc.net/problem/15654)
 [15663](https://www.acmicpc.net/problem/15663)
 [16236](https://www.acmicpc.net/problem/16236)
