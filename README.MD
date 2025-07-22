@@ -17,6 +17,7 @@ ___
 [1620](https://www.acmicpc.net/problem/1620)
 [1697](https://www.acmicpc.net/problem/1697)
 [1699](https://www.acmicpc.net/problem/1699)
+[1707](https://www.acmicpc.net/problem/1707)
 [1748](https://www.acmicpc.net/problem/1748)
 [1912](https://www.acmicpc.net/problem/1912)
 [1920](https://www.acmicpc.net/problem/1920)
