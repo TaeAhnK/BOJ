@@ -81,6 +81,7 @@ ___
 [15990](https://www.acmicpc.net/problem/15990)
 [16194](https://www.acmicpc.net/problem/16194)
 [16236](https://www.acmicpc.net/problem/16236)
+[16926](https://www.acmicpc.net/problem/16926)
 [16928](https://www.acmicpc.net/problem/16928)
 [16935](https://www.acmicpc.net/problem/16935)
 [16953](https://www.acmicpc.net/problem/16953)
