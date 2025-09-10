@@ -95,6 +95,7 @@ ___
 [16931](https://www.acmicpc.net/problem/16931)
 [16935](https://www.acmicpc.net/problem/16935)
 [16953](https://www.acmicpc.net/problem/16953)
+[16967](https://www.acmicpc.net/problem/16967)
 [17425](https://www.acmicpc.net/problem/17425)
 [17427](https://www.acmicpc.net/problem/17427)
 [18110](https://www.acmicpc.net/problem/18110)
