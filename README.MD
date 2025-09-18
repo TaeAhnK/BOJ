@@ -28,6 +28,7 @@ ___
 [1932](https://www.acmicpc.net/problem/1932)
 [1991](https://www.acmicpc.net/problem/1991)
 [1992](https://www.acmicpc.net/problem/1992)
+[2138](https://www.acmicpc.net/problem/2138)
 [2178](https://www.acmicpc.net/problem/2178)
 [2193](https://www.acmicpc.net/problem/2193)
 [2225](https://www.acmicpc.net/problem/2225)
