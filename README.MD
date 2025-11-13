@@ -10,6 +10,7 @@ ___
 [1080](https://www.acmicpc.net/problem/1080)
 [1107](https://www.acmicpc.net/problem/1107)
 [1149](https://www.acmicpc.net/problem/1149)
+[1182](https://www.acmicpc.net/problem/1182)
 [1260](https://www.acmicpc.net/problem/1260)
 [1261](https://www.acmicpc.net/problem/1261)
 [1389](https://www.acmicpc.net/problem/1389)
