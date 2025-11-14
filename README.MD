@@ -36,6 +36,7 @@ ___
 [2225](https://www.acmicpc.net/problem/2225)
 [2290](https://www.acmicpc.net/problem/2290)
 [2309](https://www.acmicpc.net/problem/2309)
+[2529](https://www.acmicpc.net/problem/2529)
 [2579](https://www.acmicpc.net/problem/2579)
 [2630](https://www.acmicpc.net/problem/2630)
 [2667](https://www.acmicpc.net/problem/2667)
