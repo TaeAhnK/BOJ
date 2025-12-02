@@ -62,6 +62,7 @@ ___
 [10047](https://www.acmicpc.net/problem/10047)
 [10819](https://www.acmicpc.net/problem/10819)
 [10844](https://www.acmicpc.net/problem/10844)
+[10971](https://www.acmicpc.net/problem/10971)
 [10972](https://www.acmicpc.net/problem/10972)
 [10973](https://www.acmicpc.net/problem/10973)
 [10974](https://www.acmicpc.net/problem/10974)
