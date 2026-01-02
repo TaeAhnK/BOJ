@@ -87,6 +87,7 @@ ___
 [11727](https://www.acmicpc.net/problem/11727)
 [12865](https://www.acmicpc.net/problem/12865)
 [13023](https://www.acmicpc.net/problem/13023)
+[13398](https://www.acmicpc.net/problem/13398)
 [13549](https://www.acmicpc.net/problem/13549)
 [13913](https://www.acmicpc.net/problem/13913)
 [14002](https://www.acmicpc.net/problem/14002)
