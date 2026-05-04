@@ -2,6 +2,7 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tenny0124)
 
+127 Problems Solved
 ___
 
 [1012](https://www.acmicpc.net/problem/1012)
